@@ -17,11 +17,12 @@
 
 ```bash
 pip install requests tqdm
+```
 运行脚本：
 
 ```bash
 python main.py
-
+```
 ## 如何使用
 
 运行脚本后，按提示输入图片的URL、保存目录、线程数、重复下载次数及是否使用多线程下载每张图片的选项。
