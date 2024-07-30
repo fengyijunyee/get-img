@@ -21,7 +21,7 @@ pip install requests tqdm
 运行脚本：
 
 ```bash
-python main.py
+python get-imgv4.py
 ```
 ## 如何使用
 
